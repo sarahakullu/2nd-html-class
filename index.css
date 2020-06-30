@@ -1,0 +1,66 @@
+         body {
+             background-color: yellowgreen;
+         } 
+          
+          ul {
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+          }
+
+          ol {
+              display: inline;
+          }
+          a {
+              background-color: rgb(80, 100, 255);
+              padding: 8px;
+          }
+          .card {
+            box-shadow: 0 4px 8px 1px rgb(0,0,0,0.2);
+              width: 40%;
+          } 
+          
+          .card:hover {
+              box-shadow: 0 4px 16px 1px rgb(0,0,0,0.2);
+          }
+          
+           .container {
+               padding: 2px 10px;
+           }
+          }
+          #active {
+              background: red;
+          }
+
+          img {
+              width: 50px;
+              height: 100px;
+              border: 1px solid green;
+              padding: 50px;
+              margin: 20px;
+              background-color:burlywood ;
+          }
+         h1,h4 {
+             color: blue;
+             font-size: 20px;
+             padding-left: 100px;
+             text-align: center;
+         }
+        
+         p {
+             background-color: tomato;
+             color:blue;
+             display: inline;
+         }
+         div {
+             width: 200px;
+             border: 15px solid green;
+             padding: 50px;
+             margin: 20px;
+             
+         }
+         em {
+             color: black;
+             display: block;
+             font-size: 20px;
+         }
